@@ -48,7 +48,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
-  <a href="https://www.jwt.io/">
+  <a href="https://www.jwt.io/" target="_blank">
     <img alt="JWT" src="https://img.shields.io/badge/JWT-%23333.svg?style=plastic&logo=jsonwebtokens&logoColor=white">
   </a>
 </p>
@@ -61,7 +61,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%232965F1.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
   </a>
 </p>
