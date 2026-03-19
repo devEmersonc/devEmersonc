@@ -39,7 +39,6 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  &emsp;
   <span style="background-color:#6db33f; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">Spring Boot</span>
   <span style="background-color:#6db33f; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">Spring Security</span>
   <span style="background-color:#00758f; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">MySQL</span>
