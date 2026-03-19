@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1 align="center">Emerson</h1>
 
 <p align="center">
   Desarrollador con enfoque en <strong>backend</strong> y conocimientos en <strong>frontend</strong>, orientado a la creación de sistemas claros, mantenibles y seguros.
