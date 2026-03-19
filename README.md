@@ -1,10 +1,12 @@
+<div style="font-family: Georgia, serif;">
+
 <h1 align="center">Hola, soy Emerson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   Desarrollador con enfoque en <strong>backend</strong> y conocimientos en <strong>frontend</strong>, orientado a la creación de sistemas claros, mantenibles y seguros.
 </p>
 
-<hr/>
+<hr style="border: 1px solid #7b1e3c;"/>
 
 <h2>Backend</h2>
 <ul>
@@ -20,7 +22,7 @@
   <li><strong>Version Control:</strong> Git (nivel básico)</li>
 </ul>
 
-<hr/>
+<hr style="border: 1px solid #7b1e3c;"/>
 
 <h2>Enfoque</h2>
 <ul>
@@ -30,7 +32,7 @@
   <li>Buenas prácticas en control de versiones</li>
 </ul>
 
-<hr/>
+<hr style="border: 1px solid #7b1e3c;"/>
 
 <h2>Stack Técnico</h2>
 
@@ -57,3 +59,5 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellijidea&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white">
 </p>
+
+</div>
