@@ -1,11 +1,16 @@
 <h1 align="center">Hola, soy Emerson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  Desarrollador con enfoque en <strong>backend</strong> y conocimientos en <strong>frontend</strong>, orientado a la creación de sistemas claros, mantenibles y seguros.
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="90">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right: 15px;">
+      <p align="center">
+        Desarrollador con enfoque en <strong>backend</strong> y conocimientos en <strong>frontend</strong>, orientado a la creación de sistemas claros, mantenibles y seguros.
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="120">
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
