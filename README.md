@@ -52,3 +52,8 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
 </p>
 
+<h3>IDE</h3>
+<p>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellijidea&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white">
+</p>
