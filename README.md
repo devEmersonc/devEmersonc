@@ -37,7 +37,7 @@
 <h3>Backend</h3>
 <p>
   <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="[https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)">
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
