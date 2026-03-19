@@ -37,7 +37,7 @@
 <h3>Backend</h3>
 <p>
   <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
@@ -48,9 +48,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
-  <a href="https://www.jwt.io/" target="_blank">
-    <img alt="JWT" src="https://img.shields.io/badge/JWT-%23333.svg?style=plastic&logo=jsonwebtokens&logoColor=white">
-  </a>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-%23333.svg?style=plastic&logo=jsonwebtokens&logoColor=white">
 </p>
 
 <h3>Frontend</h3>
