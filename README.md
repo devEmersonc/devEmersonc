@@ -36,20 +36,28 @@
 
 <h3>Backend</h3>
 <p>
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  <span style="background-color:#6db33f; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">Spring Boot</span>
-  <span style="background-color:#6db33f; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">Spring Security</span>
-  <span style="background-color:#00758f; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">MySQL</span>
-  <span style="background-color:#333; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">JWT</span>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-security" target="_blank">
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-%23333.svg?style=plastic&logo=jsonwebtokens&logoColor=white">
 </p>
 
 <h3>Frontend</h3>
 <p>
-  <span style="background-color:#dd1b16; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">Angular</span>
-  <span style="background-color:#e34c26; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">HTML</span>
-  <span style="background-color:#2965f1; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">CSS</span>
-  <span style="background-color:#007396; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">JavaFX</span>
-  <span style="background-color:#f05032; color:#fff; padding:6px 12px; border-radius:6px; font-weight:bold;">Git</span>
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD1B16.svg?style=plastic&logo=angular&logoColor=white">
+  </a>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=plastic&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%232965F1.svg?style=plastic&logo=css3&logoColor=white">
+  <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
 </p>
