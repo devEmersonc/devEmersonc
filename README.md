@@ -36,18 +36,31 @@
 
 <h3>Backend</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white">
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-%23333.svg?style=plastic&logo=jsonwebtokens&logoColor=white">
+  <a href="https://www.java.com" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-security" target="_blank">
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.jwt.io/">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-%23333.svg?style=plastic&logo=jsonwebtokens&logoColor=white">
+  </a>
 </p>
 
 <h3>Frontend</h3>
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD1B16.svg?style=plastic&logo=angular&logoColor=white">
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD1B16.svg?style=plastic&logo=angular&logoColor=white">
+  </a>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%232965F1.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=plastic&logo=java&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
 </p>
+
