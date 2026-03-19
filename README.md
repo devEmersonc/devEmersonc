@@ -7,7 +7,7 @@
       </p>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="120">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw5dTF4ZThkYzUxcTBvZDhheWwxbWFod3E2OGRzYWRjcm0wcmJ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="120">
     </td>
   </tr>
 </table>
