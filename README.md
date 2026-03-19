@@ -61,6 +61,8 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%232965F1.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white">
+  </a>
 </p>
 
