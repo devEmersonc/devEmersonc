@@ -53,9 +53,7 @@
 
 <h3>Frontend</h3>
 <p>
-  <a href="https://angular.io/" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD1B16.svg?style=plastic&logo=angular&logoColor=white">
-  </a>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34C26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%232965F1.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=plastic&logo=java&logoColor=white">
