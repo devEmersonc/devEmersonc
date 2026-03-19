@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Emerson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h5 align="center">
+<h3 align="center">
   Desarrollador con enfoque en <strong>backend</strong> y conocimientos en <strong>frontend</strong>, orientado a la creación de sistemas claros, mantenibles y seguros.
-</h5>
+</h3>
 <hr/>
 
 <h2>Backend</h2>
