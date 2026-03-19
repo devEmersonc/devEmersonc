@@ -2,6 +2,9 @@
 
 <p align="center">
   Desarrollador con enfoque en <strong>backend</strong> y conocimientos en <strong>frontend</strong>, orientado a la creación de sistemas claros, mantenibles y seguros.
+  <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="40" style="margin-left:10px;">
+</p>
+
 </p>
 
 <hr/>
