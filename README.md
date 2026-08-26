@@ -48,48 +48,6 @@
 
 <hr/>
 
-<h2>Proyectos</h2>
-
-<h3>NexoRF</h3>
-
-<p>
-  Sistema de inventario y picking con simulación RF, desarrollado para
-  representar procesos de operación logística mediante un backend en
-  Java y Spring Boot y una aplicación cliente en JavaFX.
-</p>
-
-<p>
-  Implementa autenticación, autorización mediante roles, persistencia
-  de datos y lógica de negocio.
-</p>
-
-<p>
-  <a href="https://github.com/lValtiel/NexoRF-BackEnd">
-    Ver repositorio →
-  </a>
-</p>
-
-<h3>ForgeOps</h3>
-
-<p>
-  Plataforma de operaciones industriales orientada al seguimiento de
-  fallas en maquinaria, coordinación de técnicos y ejecución de órdenes
-  de mantenimiento.
-</p>
-
-<p>
-  El proyecto incorpora autenticación, autorización, persistencia,
-  lógica de negocio y trazabilidad de las intervenciones realizadas.
-</p>
-
-<p>
-  <a href="https://github.com/lValtiel/ForgeOps">
-    Ver repositorio →
-  </a>
-</p>
-
-<hr/>
-
 <h2>Stack Técnico</h2>
 
 <h3>Backend</h3>
